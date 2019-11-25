@@ -5,7 +5,10 @@
 #include <condition_variable>
 #include <functional>
 #include <algorithm>
+#include <fstream>
 
+std::ofstream tstFile;
+std::mutex fout_mutex;
 
 namespace {
     int sleep_for_random_time() {
@@ -37,6 +40,8 @@ public:
   }
 
   ~DiningPhilosopher() {
+    
+
      for(const auto& fork : forks) {
       delete fork;
      }
@@ -72,6 +77,7 @@ private:
   std::vector<Fork*> forks;
   std::mutex permission;
   std::condition_variable_any cv;
+  std::chrono::milliseconds Dining = std::chrono::milliseconds(0);
 
   void WaitForPermission()
   {
@@ -92,7 +98,8 @@ private:
 
   void Eating(int id) {
     std::chrono::milliseconds duration(sleep_for_random_time());
-    std::cout << "Will eat for " << duration.count() << " ms.\n";
+    std::lock_guard<std::mutex> cout_lock(fout_mutex);
+    tstFile << "Will eat for " << duration.count() << " ms.\n";
     std::this_thread::sleep_for(duration);
   }
   
@@ -103,38 +110,84 @@ private:
   }
   
   void Eat(int id) {
+
+    std::chrono::milliseconds Dining = std::chrono::milliseconds(0);
+    std::chrono::milliseconds hungryTime = std::chrono::milliseconds(0);
+    std::chrono::milliseconds eatTime = std::chrono::milliseconds(0);
+    std::chrono::milliseconds forkTime1, forkTime2, forkTime3 = std::chrono::milliseconds(0);
+    std::chrono::milliseconds thinkTime = std::chrono::milliseconds(0);
+
     this->WaitForPermission();
     forks[id]->mux.lock();
     forks[(id + 1) % numOfForks]->mux.lock();
-    std::cout << "Philosopher: " << "picked up fork " << forks[id] 
-    std::cout << "Philosopher: " << id << " entering eating state.";
+    {
+    std::lock_guard<std::mutex> cout_lock(fout_mutex);
+    tstFile << "Philosopher: " << id << " picked up fork " << id << std::endl;
+    }
+
+    {
+    std::lock_guard<std::mutex> cout_lock(fout_mutex);
+    tstFile << "Philosopher: " << (id + 1) % numOfForks << " picked up fork " 
+    << (id + 1) % numOfForks << std::endl;
+    }
+
+    {
+    std::lock_guard<std::mutex> cout_lock(fout_mutex);
+    tstFile << "Philosopher: " << id << " entering eating state. ";
+    }
+
     this->Eating(id);
-    std::cout << "Philosopher "<< id << " entering hungry state" << std::endl;
-    
+
+    {
+    std::lock_guard<std::mutex> cout_lock(fout_mutex);
+    tstFile << "Philosopher: "<< id << " entering hungry state" << std::endl;
+    }
+
     forks[id]->mux.unlock();
     forks[(id + 1) % numOfForks]->mux.unlock();
     
     this->GrantPermission();
+
   }
   
   void Philosopher(int id) {
-    for(int i = 0; i < numOfEating; ++i) {
+    
+    tstFile.open("philosopherTwo.txt", std::ios::out);
+    auto start = std::chrono::high_resolution_clock::now();
+    while(true){
+    
       this->Think(id);
       this->Eat(id);
+
+      auto finish = std::chrono::high_resolution_clock::now();
+      auto milliseconds = std::chrono::duration_cast<std::chrono::milliseconds>(finish - start);
+
+    {
+      //std::lock_guard<std::mutex> fout_lock(fout_mutex);
+      Dining += milliseconds;
+      
+      
     }
+      if (Dining >= std::chrono::milliseconds(60000))
+      //std::lock_guard<std::mutex> fout_lock(fout_mutex);        
+	      break;
     
-    std::cout << "Philosopher P" << id << " DONE" << std::endl;
+    }
+    std::lock_guard<std::mutex> cout_lock(fout_mutex);
+    tstFile << "Philosopher: " << id << " Total Average Time Eating: "
+    << Dining.count() / 60000 << " ms" << std::endl;
+    
   }
 
 
  
 };
 
-
 int main()
 {
   DiningPhilosopher dp;
   dp.StartDining();
   
+  tstFile.close();
   return 0;
 }
