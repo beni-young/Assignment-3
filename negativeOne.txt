@@ -1,0 +1,960 @@
+Philosopher: 0, Time: 0 ms,  picked up left fork 0
+Philosopher: 1, Time: 0 ms,  entering hungry state.
+Philosopher: 0, Time: 0 ms,  tried to pick up right fork 1, its unavailable
+Philosopher: 1, Time: 0 ms,  picked up left fork 1
+Philosopher: 1, Time: 0 ms,  picked up right fork 2
+Philosopher: 1, Time: 0 ms,  entering eating state. Will eat for 25 ms.
+Philosopher: 1, Time: 32 ms,  entering thinking state
+Philosopher: 3, Time: 0 ms,  entering hungry state.
+Philosopher: 3, Time: 32 ms,  picked up left fork 3
+Philosopher: 3, Time: 32 ms,  picked up right fork 0
+Philosopher: 3, Time: 32 ms,  entering eating state. Will eat for 33 ms.
+
+
+Philosopher: 3, Time: 69 ms,  entering thinking state
+Philosopher: 1, Time: 69 ms,  entering hungry state.
+Philosopher: 1, Time: 69 ms,  picked up left fork 1
+Philosopher: 1, Time: 69 ms,  tried to pick up right fork 2, its unavailable
+Philosopher: 2, Time: 57 ms,  entering hungry state.
+Philosopher: 2, Time: 69 ms,  picked up left fork 2
+Philosopher: 2, Time: 69 ms,  picked up right fork 3
+Philosopher: 2, Time: 69 ms,  entering eating state. Will eat for 14 ms.
+
+
+Philosopher: 2, Time: 84 ms,  entering thinking state
+Philosopher: 3, Time: 84 ms,  entering hungry state.
+Philosopher: 3, Time: 116 ms,  picked up left fork 3
+Philosopher: 3, Time: 116 ms,  picked up right fork 0
+Philosopher: 3, Time: 116 ms,  entering eating state. Will eat for 13 ms.
+
+
+Philosopher: 3, Time: 167 ms,  entering thinking state
+Philosopher: 2, Time: 155 ms,  entering hungry state.
+Philosopher: 2, Time: 167 ms,  picked up left fork 2
+Philosopher: 2, Time: 167 ms,  picked up right fork 3
+Philosopher: 2, Time: 167 ms,  entering eating state. Will eat for 36 ms.
+
+
+Philosopher: 2, Time: 218 ms,  entering thinking state
+Philosopher: 0, Time: 108 ms,  entering hungry state.
+Philosopher: 0, Time: 135 ms,  picked up left fork 0
+Philosopher: 0, Time: 135 ms,  picked up right fork 1
+Philosopher: 0, Time: 135 ms,  entering eating state. Will eat for 18 ms.
+
+
+Philosopher: 0, Time: 158 ms,  entering thinking state
+Philosopher: 3, Time: 242 ms,  entering hungry state.
+Philosopher: 3, Time: 274 ms,  picked up left fork 3
+Philosopher: 3, Time: 274 ms,  picked up right fork 0
+Philosopher: 3, Time: 274 ms,  entering eating state. Will eat for 20 ms.
+
+
+Philosopher: 3, Time: 351 ms,  entering thinking state
+Philosopher: 1, Time: 217 ms,  tried to pick up left fork 1, its unavailable
+Philosopher: 2, Time: 339 ms,  entering hungry state.
+Philosopher: 2, Time: 351 ms,  picked up left fork 2
+Philosopher: 2, Time: 351 ms,  picked up right fork 3
+Philosopher: 2, Time: 351 ms,  entering eating state. Will eat for 12 ms.
+
+
+Philosopher: 2, Time: 416 ms,  entering thinking state
+Philosopher: 0, Time: 306 ms,  entering hungry state.
+Philosopher: 0, Time: 333 ms,  picked up left fork 0
+Philosopher: 0, Time: 333 ms,  picked up right fork 1
+Philosopher: 0, Time: 333 ms,  entering eating state. Will eat for 28 ms.
+
+
+Philosopher: 0, Time: 388 ms,  entering thinking state
+Philosopher: 3, Time: 472 ms,  entering hungry state.
+Philosopher: 3, Time: 504 ms,  picked up left fork 3
+Philosopher: 3, Time: 504 ms,  picked up right fork 0
+Philosopher: 3, Time: 504 ms,  entering eating state. Will eat for 37 ms.
+
+
+Philosopher: 3, Time: 621 ms,  entering thinking state
+Philosopher: 2, Time: 609 ms,  entering hungry state.
+Philosopher: 2, Time: 621 ms,  picked up left fork 2
+Philosopher: 2, Time: 621 ms,  picked up right fork 3
+Philosopher: 2, Time: 621 ms,  entering eating state. Will eat for 38 ms.
+
+
+Philosopher: 2, Time: 725 ms,  entering thinking state
+Philosopher: 1, Time: 317 ms,  entering hungry state.
+Philosopher: 1, Time: 526 ms,  picked up left fork 1
+Philosopher: 1, Time: 309 ms,  picked up right fork 2
+Philosopher: 1, Time: 309 ms,  entering eating state. Will eat for 38 ms.
+
+
+Philosopher: 1, Time: 380 ms,  entering thinking state
+Philosopher: 3, Time: 821 ms,  entering hungry state.
+Philosopher: 3, Time: 853 ms,  picked up left fork 3
+Philosopher: 3, Time: 853 ms,  picked up right fork 0
+Philosopher: 3, Time: 853 ms,  entering eating state. Will eat for 17 ms.
+
+
+Philosopher: 3, Time: 987 ms,  entering thinking state
+Philosopher: 2, Time: 975 ms,  entering hungry state.
+Philosopher: 2, Time: 987 ms,  picked up left fork 2
+Philosopher: 2, Time: 987 ms,  picked up right fork 3
+Philosopher: 2, Time: 987 ms,  entering eating state. Will eat for 26 ms.
+
+
+Philosopher: 2, Time: 1120 ms,  entering thinking state
+Philosopher: 1, Time: 712 ms,  entering hungry state.
+Philosopher: 1, Time: 921 ms,  picked up left fork 1
+Philosopher: 1, Time: 704 ms,  picked up right fork 2
+Philosopher: 1, Time: 704 ms,  entering eating state. Will eat for 21 ms.
+
+
+Philosopher: 1, Time: 803 ms,  entering thinking state
+Philosopher: 3, Time: 1244 ms,  entering hungry state.
+Philosopher: 3, Time: 1276 ms,  picked up left fork 3
+Philosopher: 3, Time: 1276 ms,  picked up right fork 0
+Philosopher: 3, Time: 1276 ms,  entering eating state. Will eat for 36 ms.
+
+
+Philosopher: 3, Time: 1449 ms,  entering thinking state
+Philosopher: 2, Time: 1437 ms,  entering hungry state.
+Philosopher: 2, Time: 1449 ms,  picked up left fork 2
+Philosopher: 2, Time: 1449 ms,  picked up right fork 3
+Philosopher: 2, Time: 1449 ms,  entering eating state. Will eat for 27 ms.
+
+
+Philosopher: 2, Time: 1612 ms,  entering thinking state
+Philosopher: 1, Time: 1204 ms,  entering hungry state.
+Philosopher: 1, Time: 1413 ms,  picked up left fork 1
+Philosopher: 1, Time: 1196 ms,  picked up right fork 2
+Philosopher: 1, Time: 1196 ms,  entering eating state. Will eat for 26 ms.
+
+
+Philosopher: 1, Time: 1323 ms,  entering thinking state
+Philosopher: 3, Time: 1764 ms,  entering hungry state.
+Philosopher: 3, Time: 1796 ms,  picked up left fork 3
+Philosopher: 3, Time: 1796 ms,  picked up right fork 0
+Philosopher: 3, Time: 1796 ms,  entering eating state. Will eat for 29 ms.
+
+
+Philosopher: 3, Time: 2002 ms,  entering thinking state
+Philosopher: 2, Time: 1990 ms,  entering hungry state.
+Philosopher: 2, Time: 2002 ms,  picked up left fork 2
+Philosopher: 2, Time: 2002 ms,  picked up right fork 3
+Philosopher: 2, Time: 2002 ms,  entering eating state. Will eat for 27 ms.
+
+
+Philosopher: 2, Time: 2192 ms,  entering thinking state
+Philosopher: 1, Time: 1784 ms,  entering hungry state.
+Philosopher: 1, Time: 1993 ms,  picked up left fork 1
+Philosopher: 1, Time: 1776 ms,  picked up right fork 2
+Philosopher: 1, Time: 1776 ms,  entering eating state. Will eat for 13 ms.
+
+
+Philosopher: 1, Time: 1916 ms,  entering thinking state
+Philosopher: 3, Time: 2357 ms,  entering hungry state.
+Philosopher: 3, Time: 2389 ms,  picked up left fork 3
+Philosopher: 3, Time: 2389 ms,  picked up right fork 0
+Philosopher: 3, Time: 2389 ms,  entering eating state. Will eat for 13 ms.
+
+
+Philosopher: 3, Time: 2608 ms,  entering thinking state
+Philosopher: 2, Time: 2596 ms,  entering hungry state.
+Philosopher: 2, Time: 2608 ms,  picked up left fork 2
+Philosopher: 2, Time: 2608 ms,  picked up right fork 3
+Philosopher: 2, Time: 2608 ms,  entering eating state. Will eat for 28 ms.
+
+
+Philosopher: 2, Time: 2827 ms,  entering thinking state
+Philosopher: 1, Time: 2420 ms,  entering hungry state.
+Philosopher: 1, Time: 2629 ms,  picked up left fork 1
+Philosopher: 1, Time: 2412 ms,  picked up right fork 2
+Philosopher: 1, Time: 2412 ms,  entering eating state. Will eat for 13 ms.
+
+
+Philosopher: 1, Time: 2565 ms,  entering thinking state
+Philosopher: 0, Time: 955 ms,  entering hungry state.
+Philosopher: 0, Time: 982 ms,  picked up left fork 0
+Philosopher: 0, Time: 982 ms,  picked up right fork 1
+Philosopher: 0, Time: 982 ms,  entering eating state. Will eat for 31 ms.
+
+
+Philosopher: 0, Time: 1069 ms,  entering thinking state
+Philosopher: 2, Time: 3277 ms,  entering hungry state.
+Philosopher: 2, Time: 3289 ms,  picked up left fork 2
+Philosopher: 2, Time: 3289 ms,  picked up right fork 3
+Philosopher: 2, Time: 3289 ms,  entering eating state. Will eat for 14 ms.
+
+
+Philosopher: 2, Time: 3524 ms,  entering thinking state
+Philosopher: 1, Time: 3117 ms,  entering hungry state.
+Philosopher: 1, Time: 3326 ms,  picked up left fork 1
+Philosopher: 1, Time: 3109 ms,  picked up right fork 2
+Philosopher: 1, Time: 3109 ms,  entering eating state. Will eat for 11 ms.
+
+
+Philosopher: 1, Time: 3274 ms,  entering thinking state
+Philosopher: 0, Time: 1664 ms,  entering hungry state.
+Philosopher: 0, Time: 1691 ms,  picked up left fork 0
+Philosopher: 0, Time: 1691 ms,  picked up right fork 1
+Philosopher: 0, Time: 1691 ms,  entering eating state. Will eat for 25 ms.
+
+
+Philosopher: 0, Time: 1803 ms,  entering thinking state
+Philosopher: 2, Time: 4011 ms,  entering hungry state.
+Philosopher: 2, Time: 4023 ms,  picked up left fork 2
+Philosopher: 2, Time: 4023 ms,  picked up right fork 3
+Philosopher: 2, Time: 4023 ms,  entering eating state. Will eat for 22 ms.
+
+
+Philosopher: 2, Time: 4284 ms,  entering thinking state
+Philosopher: 1, Time: 3877 ms,  entering hungry state.
+Philosopher: 1, Time: 4086 ms,  picked up left fork 1
+Philosopher: 1, Time: 3869 ms,  picked up right fork 2
+Philosopher: 1, Time: 3869 ms,  entering eating state. Will eat for 19 ms.
+
+
+Philosopher: 1, Time: 4059 ms,  entering thinking state
+Philosopher: 0, Time: 2449 ms,  entering hungry state.
+Philosopher: 0, Time: 2476 ms,  picked up left fork 0
+Philosopher: 0, Time: 2476 ms,  picked up right fork 1
+Philosopher: 0, Time: 2476 ms,  entering eating state. Will eat for 36 ms.
+
+
+Philosopher: 0, Time: 2624 ms,  entering thinking state
+Philosopher: 2, Time: 4832 ms,  entering hungry state.
+Philosopher: 2, Time: 4844 ms,  picked up left fork 2
+Philosopher: 2, Time: 4844 ms,  picked up right fork 3
+Philosopher: 2, Time: 4844 ms,  entering eating state. Will eat for 28 ms.
+
+
+Philosopher: 2, Time: 5134 ms,  entering thinking state
+Philosopher: 1, Time: 4727 ms,  entering hungry state.
+Philosopher: 1, Time: 4936 ms,  picked up left fork 1
+Philosopher: 1, Time: 4719 ms,  picked up right fork 2
+Philosopher: 1, Time: 4719 ms,  entering eating state. Will eat for 25 ms.
+
+
+Philosopher: 1, Time: 4935 ms,  entering thinking state
+Philosopher: 0, Time: 3325 ms,  entering hungry state.
+Philosopher: 0, Time: 3352 ms,  picked up left fork 0
+Philosopher: 0, Time: 3352 ms,  picked up right fork 1
+Philosopher: 0, Time: 3352 ms,  entering eating state. Will eat for 19 ms.
+
+
+Philosopher: 0, Time: 3520 ms,  entering thinking state
+Philosopher: 2, Time: 5728 ms,  entering hungry state.
+Philosopher: 2, Time: 5740 ms,  picked up left fork 2
+Philosopher: 2, Time: 5740 ms,  picked up right fork 3
+Philosopher: 2, Time: 5740 ms,  entering eating state. Will eat for 38 ms.
+
+
+Philosopher: 2, Time: 6072 ms,  entering thinking state
+Philosopher: 1, Time: 5665 ms,  entering hungry state.
+Philosopher: 1, Time: 5874 ms,  picked up left fork 1
+Philosopher: 1, Time: 5657 ms,  picked up right fork 2
+Philosopher: 1, Time: 5657 ms,  entering eating state. Will eat for 26 ms.
+
+
+Philosopher: 1, Time: 5900 ms,  entering thinking state
+Philosopher: 0, Time: 4290 ms,  entering hungry state.
+Philosopher: 0, Time: 4317 ms,  picked up left fork 0
+Philosopher: 0, Time: 4317 ms,  picked up right fork 1
+Philosopher: 0, Time: 4317 ms,  entering eating state. Will eat for 25 ms.
+
+
+Philosopher: 0, Time: 4510 ms,  entering thinking state
+Philosopher: 2, Time: 6718 ms,  entering hungry state.
+Philosopher: 2, Time: 6730 ms,  picked up left fork 2
+Philosopher: 2, Time: 6730 ms,  picked up right fork 3
+Philosopher: 2, Time: 6730 ms,  entering eating state. Will eat for 23 ms.
+
+
+Philosopher: 2, Time: 7089 ms,  entering thinking state
+Philosopher: 1, Time: 6682 ms,  entering hungry state.
+Philosopher: 1, Time: 6891 ms,  picked up left fork 1
+Philosopher: 1, Time: 6674 ms,  picked up right fork 2
+Philosopher: 1, Time: 6674 ms,  entering eating state. Will eat for 29 ms.
+
+
+Philosopher: 1, Time: 6952 ms,  entering thinking state
+Philosopher: 0, Time: 5342 ms,  entering hungry state.
+Philosopher: 0, Time: 5369 ms,  picked up left fork 0
+Philosopher: 0, Time: 5369 ms,  picked up right fork 1
+Philosopher: 0, Time: 5369 ms,  entering eating state. Will eat for 17 ms.
+
+
+Philosopher: 0, Time: 5586 ms,  entering thinking state
+Philosopher: 2, Time: 7794 ms,  entering hungry state.
+Philosopher: 2, Time: 7806 ms,  picked up left fork 2
+Philosopher: 2, Time: 7806 ms,  picked up right fork 3
+Philosopher: 2, Time: 7806 ms,  entering eating state. Will eat for 14 ms.
+
+
+Philosopher: 2, Time: 8181 ms,  entering thinking state
+Philosopher: 1, Time: 7774 ms,  entering hungry state.
+Philosopher: 1, Time: 7983 ms,  picked up left fork 1
+Philosopher: 1, Time: 7766 ms,  picked up right fork 2
+Philosopher: 1, Time: 7766 ms,  entering eating state. Will eat for 27 ms.
+
+
+Philosopher: 1, Time: 8071 ms,  entering thinking state
+Philosopher: 0, Time: 6461 ms,  entering hungry state.
+Philosopher: 0, Time: 6488 ms,  picked up left fork 0
+Philosopher: 0, Time: 6488 ms,  picked up right fork 1
+Philosopher: 0, Time: 6488 ms,  entering eating state. Will eat for 20 ms.
+
+
+Philosopher: 0, Time: 6726 ms,  entering thinking state
+Philosopher: 2, Time: 8934 ms,  entering hungry state.
+Philosopher: 2, Time: 8946 ms,  picked up left fork 2
+Philosopher: 2, Time: 8946 ms,  picked up right fork 3
+Philosopher: 2, Time: 8946 ms,  entering eating state. Will eat for 17 ms.
+
+
+Philosopher: 2, Time: 9342 ms,  entering thinking state
+Philosopher: 1, Time: 8935 ms,  entering hungry state.
+Philosopher: 1, Time: 9144 ms,  picked up left fork 1
+Philosopher: 1, Time: 8927 ms,  picked up right fork 2
+Philosopher: 1, Time: 8927 ms,  entering eating state. Will eat for 10 ms.
+
+
+Philosopher: 1, Time: 9247 ms,  entering thinking state
+Philosopher: 0, Time: 7637 ms,  entering hungry state.
+Philosopher: 0, Time: 7664 ms,  picked up left fork 0
+Philosopher: 0, Time: 7664 ms,  picked up right fork 1
+Philosopher: 0, Time: 7664 ms,  entering eating state. Will eat for 11 ms.
+
+
+Philosopher: 0, Time: 7913 ms,  entering thinking state
+Philosopher: 2, Time: 10121 ms,  entering hungry state.
+Philosopher: 2, Time: 10133 ms,  picked up left fork 2
+Philosopher: 2, Time: 10133 ms,  picked up right fork 3
+Philosopher: 2, Time: 10133 ms,  entering eating state. Will eat for 25 ms.
+
+
+Philosopher: 2, Time: 10559 ms,  entering thinking state
+Philosopher: 1, Time: 10152 ms,  entering hungry state.
+Philosopher: 1, Time: 10361 ms,  picked up left fork 1
+Philosopher: 1, Time: 10144 ms,  picked up right fork 2
+Philosopher: 1, Time: 10144 ms,  entering eating state. Will eat for 30 ms.
+
+
+Philosopher: 1, Time: 10498 ms,  entering thinking state
+Philosopher: 0, Time: 8888 ms,  entering hungry state.
+Philosopher: 0, Time: 8915 ms,  picked up left fork 0
+Philosopher: 0, Time: 8915 ms,  picked up right fork 1
+Philosopher: 0, Time: 8915 ms,  entering eating state. Will eat for 27 ms.
+
+
+Philosopher: 0, Time: 9191 ms,  entering thinking state
+Philosopher: 2, Time: 11399 ms,  entering hungry state.
+Philosopher: 2, Time: 11411 ms,  picked up left fork 2
+Philosopher: 2, Time: 11411 ms,  picked up right fork 3
+Philosopher: 2, Time: 11411 ms,  entering eating state. Will eat for 34 ms.
+
+
+Philosopher: 2, Time: 11872 ms,  entering thinking state
+Philosopher: 1, Time: 11465 ms,  entering hungry state.
+Philosopher: 1, Time: 11674 ms,  picked up left fork 1
+Philosopher: 1, Time: 11457 ms,  picked up right fork 2
+Philosopher: 1, Time: 11457 ms,  entering eating state. Will eat for 25 ms.
+
+
+Philosopher: 1, Time: 11837 ms,  entering thinking state
+Philosopher: 0, Time: 10227 ms,  entering hungry state.
+Philosopher: 0, Time: 10254 ms,  picked up left fork 0
+Philosopher: 0, Time: 10254 ms,  picked up right fork 1
+Philosopher: 0, Time: 10254 ms,  entering eating state. Will eat for 35 ms.
+
+
+Philosopher: 0, Time: 10566 ms,  entering thinking state
+Philosopher: 2, Time: 12774 ms,  entering hungry state.
+Philosopher: 2, Time: 12786 ms,  picked up left fork 2
+Philosopher: 2, Time: 12786 ms,  picked up right fork 3
+Philosopher: 2, Time: 12786 ms,  entering eating state. Will eat for 26 ms.
+
+
+Philosopher: 2, Time: 13273 ms,  entering thinking state
+Philosopher: 1, Time: 12866 ms,  entering hungry state.
+Philosopher: 1, Time: 13075 ms,  picked up left fork 1
+Philosopher: 1, Time: 12858 ms,  picked up right fork 2
+Philosopher: 1, Time: 12858 ms,  entering eating state. Will eat for 19 ms.
+
+
+Philosopher: 1, Time: 13261 ms,  entering thinking state
+Philosopher: 0, Time: 11651 ms,  entering hungry state.
+Philosopher: 0, Time: 11678 ms,  picked up left fork 0
+Philosopher: 0, Time: 11678 ms,  picked up right fork 1
+Philosopher: 0, Time: 11678 ms,  entering eating state. Will eat for 34 ms.
+
+
+Philosopher: 0, Time: 12026 ms,  entering thinking state
+Philosopher: 3, Time: 3817 ms,  entering hungry state.
+Philosopher: 3, Time: 3849 ms,  picked up left fork 3
+Philosopher: 3, Time: 3849 ms,  picked up right fork 0
+Philosopher: 3, Time: 3849 ms,  entering eating state. Will eat for 17 ms.
+
+
+Philosopher: 3, Time: 4085 ms,  entering thinking state
+Philosopher: 1, Time: 14343 ms,  entering hungry state.
+Philosopher: 1, Time: 14552 ms,  picked up left fork 1
+Philosopher: 1, Time: 14335 ms,  picked up right fork 2
+Philosopher: 1, Time: 14335 ms,  entering eating state. Will eat for 18 ms.
+
+
+Philosopher: 1, Time: 14757 ms,  entering thinking state
+Philosopher: 0, Time: 13147 ms,  entering hungry state.
+Philosopher: 0, Time: 13174 ms,  picked up left fork 0
+Philosopher: 0, Time: 13174 ms,  picked up right fork 1
+Philosopher: 0, Time: 13174 ms,  entering eating state. Will eat for 29 ms.
+
+
+Philosopher: 0, Time: 13553 ms,  entering thinking state
+Philosopher: 3, Time: 5344 ms,  entering hungry state.
+Philosopher: 3, Time: 5376 ms,  picked up left fork 3
+Philosopher: 3, Time: 5376 ms,  picked up right fork 0
+Philosopher: 3, Time: 5376 ms,  entering eating state. Will eat for 14 ms.
+
+
+Philosopher: 3, Time: 5631 ms,  entering thinking state
+Philosopher: 1, Time: 15889 ms,  entering hungry state.
+Philosopher: 1, Time: 16098 ms,  picked up left fork 1
+Philosopher: 1, Time: 15881 ms,  picked up right fork 2
+Philosopher: 1, Time: 15881 ms,  entering eating state. Will eat for 28 ms.
+
+
+Philosopher: 1, Time: 16333 ms,  entering thinking state
+Philosopher: 0, Time: 14723 ms,  entering hungry state.
+Philosopher: 0, Time: 14750 ms,  picked up left fork 0
+Philosopher: 0, Time: 14750 ms,  picked up right fork 1
+Philosopher: 0, Time: 14750 ms,  entering eating state. Will eat for 11 ms.
+
+
+Philosopher: 0, Time: 15144 ms,  entering thinking state
+Philosopher: 3, Time: 6935 ms,  entering hungry state.
+Philosopher: 3, Time: 6967 ms,  picked up left fork 3
+Philosopher: 3, Time: 6967 ms,  picked up right fork 0
+Philosopher: 3, Time: 6967 ms,  entering eating state. Will eat for 29 ms.
+
+
+Philosopher: 3, Time: 7255 ms,  entering thinking state
+Philosopher: 1, Time: 17513 ms,  entering hungry state.
+Philosopher: 1, Time: 17722 ms,  picked up left fork 1
+Philosopher: 1, Time: 17505 ms,  picked up right fork 2
+Philosopher: 1, Time: 17505 ms,  entering eating state. Will eat for 28 ms.
+
+
+Philosopher: 1, Time: 17988 ms,  entering thinking state
+Philosopher: 0, Time: 16378 ms,  entering hungry state.
+Philosopher: 0, Time: 16405 ms,  picked up left fork 0
+Philosopher: 0, Time: 16405 ms,  picked up right fork 1
+Philosopher: 0, Time: 16405 ms,  entering eating state. Will eat for 16 ms.
+
+
+Philosopher: 0, Time: 16819 ms,  entering thinking state
+Philosopher: 3, Time: 8610 ms,  entering hungry state.
+Philosopher: 3, Time: 8642 ms,  picked up left fork 3
+Philosopher: 3, Time: 8642 ms,  picked up right fork 0
+Philosopher: 3, Time: 8642 ms,  entering eating state. Will eat for 14 ms.
+
+
+Philosopher: 3, Time: 8951 ms,  entering thinking state
+Philosopher: 1, Time: 19209 ms,  entering hungry state.
+Philosopher: 1, Time: 19418 ms,  picked up left fork 1
+Philosopher: 1, Time: 19201 ms,  picked up right fork 2
+Philosopher: 1, Time: 19201 ms,  entering eating state. Will eat for 39 ms.
+
+
+Philosopher: 1, Time: 19723 ms,  entering thinking state
+Philosopher: 0, Time: 18113 ms,  entering hungry state.
+Philosopher: 0, Time: 18140 ms,  picked up left fork 0
+Philosopher: 0, Time: 18140 ms,  picked up right fork 1
+Philosopher: 0, Time: 18140 ms,  entering eating state. Will eat for 32 ms.
+
+
+Philosopher: 0, Time: 18596 ms,  entering thinking state
+Philosopher: 3, Time: 10387 ms,  entering hungry state.
+Philosopher: 3, Time: 10419 ms,  picked up left fork 3
+Philosopher: 3, Time: 10419 ms,  picked up right fork 0
+Philosopher: 3, Time: 10419 ms,  entering eating state. Will eat for 22 ms.
+
+
+Philosopher: 3, Time: 10796 ms,  entering thinking state
+Philosopher: 1, Time: 21054 ms,  entering hungry state.
+Philosopher: 1, Time: 21263 ms,  picked up left fork 1
+Philosopher: 1, Time: 21046 ms,  picked up right fork 2
+Philosopher: 1, Time: 21046 ms,  entering eating state. Will eat for 35 ms.
+
+
+Philosopher: 1, Time: 21608 ms,  entering thinking state
+Philosopher: 0, Time: 19998 ms,  entering hungry state.
+Philosopher: 0, Time: 20025 ms,  picked up left fork 0
+Philosopher: 0, Time: 20025 ms,  picked up right fork 1
+Philosopher: 0, Time: 20025 ms,  entering eating state. Will eat for 27 ms.
+
+
+Philosopher: 0, Time: 20509 ms,  entering thinking state
+Philosopher: 3, Time: 12300 ms,  entering hungry state.
+Philosopher: 3, Time: 12332 ms,  picked up left fork 3
+Philosopher: 3, Time: 12332 ms,  picked up right fork 0
+Philosopher: 3, Time: 12332 ms,  entering eating state. Will eat for 27 ms.
+
+
+Philosopher: 3, Time: 12745 ms,  entering thinking state
+Philosopher: 1, Time: 23003 ms,  entering hungry state.
+Philosopher: 1, Time: 23212 ms,  picked up left fork 1
+Philosopher: 1, Time: 22995 ms,  picked up right fork 2
+Philosopher: 1, Time: 22995 ms,  entering eating state. Will eat for 12 ms.
+
+
+Philosopher: 1, Time: 23579 ms,  entering thinking state
+Philosopher: 0, Time: 21970 ms,  entering hungry state.
+Philosopher: 0, Time: 21997 ms,  picked up left fork 0
+Philosopher: 0, Time: 21997 ms,  picked up right fork 1
+Philosopher: 0, Time: 21997 ms,  entering eating state. Will eat for 28 ms.
+
+
+Philosopher: 0, Time: 22511 ms,  entering thinking state
+Philosopher: 3, Time: 14302 ms,  entering hungry state.
+Philosopher: 3, Time: 14334 ms,  picked up left fork 3
+Philosopher: 3, Time: 14334 ms,  picked up right fork 0
+Philosopher: 3, Time: 14334 ms,  entering eating state. Will eat for 39 ms.
+
+
+Philosopher: 3, Time: 14791 ms,  entering thinking state
+Philosopher: 1, Time: 25049 ms,  entering hungry state.
+Philosopher: 1, Time: 25258 ms,  picked up left fork 1
+Philosopher: 1, Time: 25041 ms,  picked up right fork 2
+Philosopher: 1, Time: 25041 ms,  entering eating state. Will eat for 27 ms.
+
+
+Philosopher: 1, Time: 25655 ms,  entering thinking state
+Philosopher: 0, Time: 24046 ms,  entering hungry state.
+Philosopher: 0, Time: 24073 ms,  picked up left fork 0
+Philosopher: 0, Time: 24073 ms,  picked up right fork 1
+Philosopher: 0, Time: 24073 ms,  entering eating state. Will eat for 24 ms.
+
+
+Philosopher: 0, Time: 24613 ms,  entering thinking state
+Philosopher: 3, Time: 16404 ms,  entering hungry state.
+Philosopher: 3, Time: 16436 ms,  picked up left fork 3
+Philosopher: 3, Time: 16436 ms,  picked up right fork 0
+Philosopher: 3, Time: 16436 ms,  entering eating state. Will eat for 27 ms.
+
+
+Philosopher: 3, Time: 16922 ms,  entering thinking state
+Philosopher: 1, Time: 27180 ms,  entering hungry state.
+Philosopher: 1, Time: 27389 ms,  picked up left fork 1
+Philosopher: 1, Time: 27172 ms,  picked up right fork 2
+Philosopher: 1, Time: 27172 ms,  entering eating state. Will eat for 15 ms.
+
+
+Philosopher: 1, Time: 27801 ms,  entering thinking state
+Philosopher: 0, Time: 26192 ms,  entering hungry state.
+Philosopher: 0, Time: 26219 ms,  picked up left fork 0
+Philosopher: 0, Time: 26219 ms,  picked up right fork 1
+Philosopher: 0, Time: 26219 ms,  entering eating state. Will eat for 11 ms.
+
+
+Philosopher: 0, Time: 26772 ms,  entering thinking state
+Philosopher: 3, Time: 18563 ms,  entering hungry state.
+Philosopher: 3, Time: 18595 ms,  picked up left fork 3
+Philosopher: 3, Time: 18595 ms,  picked up right fork 0
+Philosopher: 3, Time: 18595 ms,  entering eating state. Will eat for 20 ms.
+
+
+Philosopher: 3, Time: 19103 ms,  entering thinking state
+Philosopher: 1, Time: 29361 ms,  entering hungry state.
+Philosopher: 1, Time: 29570 ms,  picked up left fork 1
+Philosopher: 1, Time: 29353 ms,  picked up right fork 2
+Philosopher: 1, Time: 29353 ms,  entering eating state. Will eat for 33 ms.
+
+
+Philosopher: 1, Time: 30016 ms,  entering thinking state
+Philosopher: 0, Time: 28407 ms,  entering hungry state.
+Philosopher: 0, Time: 28434 ms,  picked up left fork 0
+Philosopher: 0, Time: 28434 ms,  picked up right fork 1
+Philosopher: 0, Time: 28434 ms,  entering eating state. Will eat for 25 ms.
+
+
+Philosopher: 0, Time: 29012 ms,  entering thinking state
+Philosopher: 2, Time: 15014 ms,  entering hungry state.
+Philosopher: 2, Time: 15026 ms,  picked up left fork 2
+Philosopher: 2, Time: 15026 ms,  picked up right fork 3
+Philosopher: 2, Time: 15026 ms,  entering eating state. Will eat for 30 ms.
+
+
+Philosopher: 2, Time: 15544 ms,  entering thinking state
+Philosopher: 1, Time: 31632 ms,  entering hungry state.
+Philosopher: 1, Time: 31841 ms,  picked up left fork 1
+Philosopher: 1, Time: 31624 ms,  picked up right fork 2
+Philosopher: 1, Time: 31624 ms,  entering eating state. Will eat for 20 ms.
+
+
+Philosopher: 1, Time: 32309 ms,  entering thinking state
+Philosopher: 0, Time: 30700 ms,  entering hungry state.
+Philosopher: 0, Time: 30727 ms,  picked up left fork 0
+Philosopher: 0, Time: 30727 ms,  picked up right fork 1
+Philosopher: 0, Time: 30727 ms,  entering eating state. Will eat for 33 ms.
+
+
+Philosopher: 0, Time: 31342 ms,  entering thinking state
+Philosopher: 2, Time: 17344 ms,  entering hungry state.
+Philosopher: 2, Time: 17356 ms,  picked up left fork 2
+Philosopher: 2, Time: 17356 ms,  picked up right fork 3
+Philosopher: 2, Time: 17356 ms,  entering eating state. Will eat for 22 ms.
+
+
+Philosopher: 2, Time: 17899 ms,  entering thinking state
+Philosopher: 1, Time: 33987 ms,  entering hungry state.
+Philosopher: 1, Time: 34196 ms,  picked up left fork 1
+Philosopher: 1, Time: 33979 ms,  picked up right fork 2
+Philosopher: 1, Time: 33979 ms,  entering eating state. Will eat for 24 ms.
+
+
+Philosopher: 1, Time: 34690 ms,  entering thinking state
+Philosopher: 0, Time: 33081 ms,  entering hungry state.
+Philosopher: 0, Time: 33108 ms,  picked up left fork 0
+Philosopher: 0, Time: 33108 ms,  picked up right fork 1
+Philosopher: 0, Time: 33108 ms,  entering eating state. Will eat for 12 ms.
+
+
+Philosopher: 0, Time: 33742 ms,  entering thinking state
+Philosopher: 2, Time: 19744 ms,  entering hungry state.
+Philosopher: 2, Time: 19756 ms,  picked up left fork 2
+Philosopher: 2, Time: 19756 ms,  picked up right fork 3
+Philosopher: 2, Time: 19756 ms,  entering eating state. Will eat for 39 ms.
+
+
+Philosopher: 2, Time: 20339 ms,  entering thinking state
+Philosopher: 1, Time: 36427 ms,  entering hungry state.
+Philosopher: 1, Time: 36636 ms,  picked up left fork 1
+Philosopher: 1, Time: 36419 ms,  picked up right fork 2
+Philosopher: 1, Time: 36419 ms,  entering eating state. Will eat for 18 ms.
+
+
+Philosopher: 1, Time: 37155 ms,  entering thinking state
+Philosopher: 0, Time: 35546 ms,  entering hungry state.
+Philosopher: 0, Time: 35573 ms,  picked up left fork 0
+Philosopher: 0, Time: 35573 ms,  picked up right fork 1
+Philosopher: 0, Time: 35573 ms,  entering eating state. Will eat for 26 ms.
+
+
+Philosopher: 0, Time: 36233 ms,  entering thinking state
+Philosopher: 2, Time: 22235 ms,  entering hungry state.
+Philosopher: 2, Time: 22247 ms,  picked up left fork 2
+Philosopher: 2, Time: 22247 ms,  picked up right fork 3
+Philosopher: 2, Time: 22247 ms,  entering eating state. Will eat for 12 ms.
+
+
+Philosopher: 2, Time: 22843 ms,  entering thinking state
+Philosopher: 1, Time: 38931 ms,  entering hungry state.
+Philosopher: 1, Time: 39140 ms,  picked up left fork 1
+Philosopher: 1, Time: 38923 ms,  picked up right fork 2
+Philosopher: 1, Time: 38923 ms,  entering eating state. Will eat for 15 ms.
+
+
+Philosopher: 1, Time: 39684 ms,  entering thinking state
+Philosopher: 0, Time: 38075 ms,  entering hungry state.
+Philosopher: 0, Time: 38102 ms,  picked up left fork 0
+Philosopher: 0, Time: 38102 ms,  picked up right fork 1
+Philosopher: 0, Time: 38102 ms,  entering eating state. Will eat for 18 ms.
+
+
+Philosopher: 0, Time: 38798 ms,  entering thinking state
+Philosopher: 2, Time: 24800 ms,  entering hungry state.
+Philosopher: 2, Time: 24812 ms,  picked up left fork 2
+Philosopher: 2, Time: 24812 ms,  picked up right fork 3
+Philosopher: 2, Time: 24812 ms,  entering eating state. Will eat for 22 ms.
+
+
+Philosopher: 2, Time: 25431 ms,  entering thinking state
+Philosopher: 1, Time: 41519 ms,  entering hungry state.
+Philosopher: 1, Time: 41728 ms,  picked up left fork 1
+Philosopher: 1, Time: 41511 ms,  picked up right fork 2
+Philosopher: 1, Time: 41511 ms,  entering eating state. Will eat for 27 ms.
+
+
+Philosopher: 1, Time: 42299 ms,  entering thinking state
+Philosopher: 0, Time: 40690 ms,  entering hungry state.
+Philosopher: 0, Time: 40717 ms,  picked up left fork 0
+Philosopher: 0, Time: 40717 ms,  picked up right fork 1
+Philosopher: 0, Time: 40717 ms,  entering eating state. Will eat for 23 ms.
+
+
+Philosopher: 0, Time: 41437 ms,  entering thinking state
+Philosopher: 2, Time: 27439 ms,  entering hungry state.
+Philosopher: 2, Time: 27451 ms,  picked up left fork 2
+Philosopher: 2, Time: 27451 ms,  picked up right fork 3
+Philosopher: 2, Time: 27451 ms,  entering eating state. Will eat for 34 ms.
+
+
+Philosopher: 2, Time: 28104 ms,  entering thinking state
+Philosopher: 1, Time: 44192 ms,  entering hungry state.
+Philosopher: 1, Time: 44401 ms,  picked up left fork 1
+Philosopher: 1, Time: 44184 ms,  picked up right fork 2
+Philosopher: 1, Time: 44184 ms,  entering eating state. Will eat for 37 ms.
+
+
+Philosopher: 1, Time: 45010 ms,  entering thinking state
+Philosopher: 0, Time: 43401 ms,  entering hungry state.
+Philosopher: 0, Time: 43428 ms,  picked up left fork 0
+Philosopher: 0, Time: 43428 ms,  picked up right fork 1
+Philosopher: 0, Time: 43428 ms,  entering eating state. Will eat for 24 ms.
+
+
+Philosopher: 0, Time: 44172 ms,  entering thinking state
+Philosopher: 2, Time: 30174 ms,  entering hungry state.
+Philosopher: 2, Time: 30186 ms,  picked up left fork 2
+Philosopher: 2, Time: 30186 ms,  picked up right fork 3
+Philosopher: 2, Time: 30186 ms,  entering eating state. Will eat for 20 ms.
+
+
+Philosopher: 2, Time: 30860 ms,  entering thinking state
+Philosopher: 1, Time: 46948 ms,  entering hungry state.
+Philosopher: 1, Time: 47157 ms,  picked up left fork 1
+Philosopher: 1, Time: 46940 ms,  picked up right fork 2
+Philosopher: 1, Time: 46940 ms,  entering eating state. Will eat for 16 ms.
+
+
+Philosopher: 1, Time: 47782 ms,  entering thinking state
+Philosopher: 0, Time: 46173 ms,  entering hungry state.
+Philosopher: 0, Time: 46200 ms,  picked up left fork 0
+Philosopher: 0, Time: 46200 ms,  picked up right fork 1
+Philosopher: 0, Time: 46200 ms,  entering eating state. Will eat for 25 ms.
+
+
+Philosopher: 0, Time: 46970 ms,  entering thinking state
+Philosopher: 2, Time: 32972 ms,  entering hungry state.
+Philosopher: 2, Time: 32984 ms,  picked up left fork 2
+Philosopher: 2, Time: 32984 ms,  picked up right fork 3
+Philosopher: 2, Time: 32984 ms,  entering eating state. Will eat for 11 ms.
+
+
+Philosopher: 2, Time: 33670 ms,  entering thinking state
+Philosopher: 1, Time: 49758 ms,  entering hungry state.
+Philosopher: 1, Time: 49967 ms,  picked up left fork 1
+Philosopher: 1, Time: 49750 ms,  picked up right fork 2
+Philosopher: 1, Time: 49750 ms,  entering eating state. Will eat for 29 ms.
+
+
+Philosopher: 1, Time: 50621 ms,  entering thinking state
+Philosopher: 0, Time: 49012 ms,  entering hungry state.
+Philosopher: 0, Time: 49039 ms,  picked up left fork 0
+Philosopher: 0, Time: 49039 ms,  picked up right fork 1
+Philosopher: 0, Time: 49039 ms,  entering eating state. Will eat for 19 ms.
+
+
+Philosopher: 0, Time: 49828 ms,  entering thinking state
+Philosopher: 2, Time: 35830 ms,  entering hungry state.
+Philosopher: 2, Time: 35842 ms,  picked up left fork 2
+Philosopher: 2, Time: 35842 ms,  picked up right fork 3
+Philosopher: 2, Time: 35842 ms,  entering eating state. Will eat for 29 ms.
+
+
+Philosopher: 2, Time: 36558 ms,  entering thinking state
+Philosopher: 1, Time: 52646 ms,  entering hungry state.
+Philosopher: 1, Time: 52855 ms,  picked up left fork 1
+Philosopher: 1, Time: 52638 ms,  picked up right fork 2
+Philosopher: 1, Time: 52638 ms,  entering eating state. Will eat for 15 ms.
+
+
+Philosopher: 1, Time: 53527 ms,  entering thinking state
+Philosopher: 0, Time: 51918 ms,  entering hungry state.
+Philosopher: 0, Time: 51945 ms,  picked up left fork 0
+Philosopher: 0, Time: 51945 ms,  picked up right fork 1
+Philosopher: 0, Time: 51945 ms,  entering eating state. Will eat for 24 ms.
+
+
+Philosopher: 0, Time: 52760 ms,  entering thinking state
+Philosopher: 3, Time: 21495 ms,  entering hungry state.
+Philosopher: 3, Time: 21527 ms,  picked up left fork 3
+Philosopher: 3, Time: 21527 ms,  picked up right fork 0
+Philosopher: 3, Time: 21527 ms,  entering eating state. Will eat for 38 ms.
+
+
+Philosopher: 3, Time: 22074 ms,  entering thinking state
+Philosopher: 1, Time: 55617 ms,  entering hungry state.
+Philosopher: 1, Time: 55826 ms,  picked up left fork 1
+Philosopher: 1, Time: 55609 ms,  picked up right fork 2
+Philosopher: 1, Time: 55609 ms,  entering eating state. Will eat for 21 ms.
+
+
+Philosopher: 1, Time: 56520 ms,  entering thinking state
+Philosopher: 0, Time: 54911 ms,  entering hungry state.
+Philosopher: 0, Time: 54938 ms,  picked up left fork 0
+Philosopher: 0, Time: 54938 ms,  picked up right fork 1
+Philosopher: 0, Time: 54938 ms,  entering eating state. Will eat for 16 ms.
+
+
+Philosopher: 0, Time: 55770 ms,  entering thinking state
+Philosopher: 3, Time: 24505 ms,  entering hungry state.
+Philosopher: 3, Time: 24537 ms,  picked up left fork 3
+Philosopher: 3, Time: 24537 ms,  picked up right fork 0
+Philosopher: 3, Time: 24537 ms,  entering eating state. Will eat for 40 ms.
+
+
+Philosopher: 3, Time: 25125 ms,  entering thinking state
+Philosopher: 1, Time: 58668 ms,  entering hungry state.
+Philosopher: 1, Time: 58877 ms,  picked up left fork 1
+Philosopher: 1, Time: 58660 ms,  picked up right fork 2
+Philosopher: 1, Time: 58660 ms,  entering eating state. Will eat for 36 ms.
+
+
+Philosopher: 1, Time: 59610 ms,  entering thinking state
+Philosopher: 0, Time: 58001 ms,  entering hungry state.
+Philosopher: 0, Time: 58028 ms,  picked up left fork 0
+Philosopher: 0, Time: 58028 ms,  picked up right fork 1
+Philosopher: 0, Time: 58028 ms,  entering eating state. Will eat for 13 ms.
+
+
+Philosopher: 0, Time: 58873 ms,  entering thinking state
+Philosopher: 3, Time: 27609 ms,  entering hungry state.
+Philosopher: 3, Time: 27641 ms,  picked up left fork 3
+Philosopher: 3, Time: 27641 ms,  picked up right fork 0
+Philosopher: 3, Time: 27641 ms,  entering eating state. Will eat for 27 ms.
+
+
+Philosopher: 3, Time: 28260 ms,  entering thinking state
+Philosopher: 2, Time: 38965 ms,  entering hungry state.
+Philosopher: 2, Time: 38977 ms,  picked up left fork 2
+Philosopher: 2, Time: 38977 ms,  picked up right fork 3
+Philosopher: 2, Time: 38977 ms,  entering eating state. Will eat for 34 ms.
+
+
+Philosopher: 2, Time: 39727 ms,  entering thinking state
+Philosopher: 0, Time: 61170 ms,  entering hungry state.
+Philosopher: 0, Time: 61197 ms,  picked up left fork 0
+Philosopher: 0, Time: 61197 ms,  picked up right fork 1
+Philosopher: 0, Time: 61197 ms,  entering eating state. Will eat for 31 ms.
+
+
+Philosopher: 0, Time: 62079 ms,  entering thinking state
+Philosopher: 3, Time: 30815 ms,  entering hungry state.
+Philosopher: 3, Time: 30847 ms,  picked up left fork 3
+Philosopher: 3, Time: 30847 ms,  picked up right fork 0
+Philosopher: 3, Time: 30847 ms,  entering eating state. Will eat for 17 ms.
+
+
+Philosopher: 3, Time: 31487 ms,  entering thinking state
+Philosopher: 2, Time: 42192 ms,  entering hungry state.
+Philosopher: 2, Time: 42204 ms,  picked up left fork 2
+Philosopher: 2, Time: 42204 ms,  picked up right fork 3
+Philosopher: 2, Time: 42204 ms,  entering eating state. Will eat for 37 ms.
+
+
+Philosopher: 2, Time: 42991 ms,  entering thinking state
+Philosopher: 3, Time: 34080 ms,  entering hungry state.
+Philosopher: 3, Time: 34112 ms,  picked up left fork 3
+Philosopher: 3, Time: 34112 ms,  picked up right fork 0
+Philosopher: 3, Time: 34112 ms,  entering eating state. Will eat for 37 ms.
+
+
+Philosopher: 3, Time: 34790 ms,  entering thinking state
+Philosopher: 2, Time: 45495 ms,  entering hungry state.
+Philosopher: 2, Time: 45507 ms,  picked up left fork 2
+Philosopher: 2, Time: 45507 ms,  picked up right fork 3
+Philosopher: 2, Time: 45507 ms,  entering eating state. Will eat for 10 ms.
+Philosopher: 2, Time: 46304 ms,  entering thinking state
+
+
+Philosopher: 3, Time: 37394 ms,  entering hungry state.
+Philosopher: 3, Time: 37426 ms,  picked up left fork 3
+Philosopher: 3, Time: 37426 ms,  picked up right fork 0
+Philosopher: 3, Time: 37426 ms,  entering eating state. Will eat for 40 ms.
+
+
+Philosopher: 3, Time: 38147 ms,  entering thinking state
+Philosopher: 2, Time: 48852 ms,  entering hungry state.
+Philosopher: 2, Time: 48864 ms,  picked up left fork 2
+Philosopher: 2, Time: 48864 ms,  picked up right fork 3
+Philosopher: 2, Time: 48864 ms,  entering eating state. Will eat for 25 ms.
+
+
+Philosopher: 2, Time: 49687 ms,  entering thinking state
+Philosopher: 3, Time: 40777 ms,  entering hungry state.
+Philosopher: 3, Time: 40809 ms,  picked up left fork 3
+Philosopher: 3, Time: 40809 ms,  picked up right fork 0
+Philosopher: 3, Time: 40809 ms,  entering eating state. Will eat for 31 ms.
+
+
+Philosopher: 3, Time: 41564 ms,  entering thinking state
+Philosopher: 2, Time: 52269 ms,  entering hungry state.
+Philosopher: 2, Time: 52281 ms,  picked up left fork 2
+Philosopher: 2, Time: 52281 ms,  picked up right fork 3
+Philosopher: 2, Time: 52281 ms,  entering eating state. Will eat for 39 ms.
+
+
+Philosopher: 2, Time: 53145 ms,  entering thinking state
+Philosopher: 3, Time: 44235 ms,  entering hungry state.
+Philosopher: 3, Time: 44267 ms,  picked up left fork 3
+Philosopher: 3, Time: 44267 ms,  picked up right fork 0
+Philosopher: 3, Time: 44267 ms,  entering eating state. Will eat for 13 ms.
+
+
+Philosopher: 3, Time: 45039 ms,  entering thinking state
+Philosopher: 2, Time: 55744 ms,  entering hungry state.
+Philosopher: 2, Time: 55756 ms,  picked up left fork 2
+Philosopher: 2, Time: 55756 ms,  picked up right fork 3
+Philosopher: 2, Time: 55756 ms,  entering eating state. Will eat for 17 ms.
+
+
+Philosopher: 2, Time: 56644 ms,  entering thinking state
+Philosopher: 3, Time: 47734 ms,  entering hungry state.
+Philosopher: 3, Time: 47766 ms,  picked up left fork 3
+Philosopher: 3, Time: 47766 ms,  picked up right fork 0
+Philosopher: 3, Time: 47766 ms,  entering eating state. Will eat for 21 ms.
+
+
+Philosopher: 3, Time: 48567 ms,  entering thinking state
+Philosopher: 2, Time: 59272 ms,  entering hungry state.
+Philosopher: 2, Time: 59284 ms,  picked up left fork 2
+Philosopher: 2, Time: 59284 ms,  picked up right fork 3
+Philosopher: 2, Time: 59284 ms,  entering eating state. Will eat for 34 ms.
+
+
+Philosopher: 2, Time: 60206 ms,  entering thinking state
+Philosopher: 3, Time: 51296 ms,  entering hungry state.
+Philosopher: 3, Time: 51328 ms,  picked up left fork 3
+Philosopher: 3, Time: 51328 ms,  picked up right fork 0
+Philosopher: 3, Time: 51329 ms,  entering eating state. Will eat for 26 ms.
+
+
+Philosopher: 3, Time: 52158 ms,  entering thinking state
+
+
+Philosopher: 3, Time: 54898 ms,  entering hungry state.
+Philosopher: 3, Time: 54930 ms,  picked up left fork 3
+Philosopher: 3, Time: 54930 ms,  picked up right fork 0
+Philosopher: 3, Time: 54931 ms,  entering eating state. Will eat for 19 ms.
+Philosopher: 3, Time: 55780 ms,  entering thinking state
+
+
+Philosopher: 3, Time: 58534 ms,  entering hungry state.
+Philosopher: 3, Time: 58566 ms,  picked up left fork 3
+Philosopher: 3, Time: 58566 ms,  picked up right fork 0
+Philosopher: 3, Time: 58567 ms,  entering eating state. Will eat for 19 ms.
+Philosopher: 3, Time: 59436 ms,  entering thinking state
+
+
+Philosopher: 3, Time: 62201 ms,  entering hungry state.
+Philosopher: 3, Time: 62233 ms,  picked up left fork 3
+Philosopher: 3, Time: 62233 ms,  picked up right fork 0
+Philosopher: 3, Time: 62234 ms,  entering eating state. Will eat for 37 ms.
+Philosopher: 3, Time: 63148 ms,  entering thinking state
+
+
+Philosopher: 0 Total Hunger State: 61170	Philosopher: 0 Average Hunger State: 1
+Philosopher: 1 Total Hunger State: 58668	Philosopher: 1 Average Hunger State: 0
+Philosopher: 2 Total Hunger State: 59272	Philosopher: 2 Average Hunger State: 0
+Philosopher: 3 Total Hunger State: 62201	Philosopher: 3 Average Hunger State: 1
+
+
+Philosopher: 0 Total Eating State: 61197	Philosopher: 0 Average Eating State: 1
+Philosopher: 1 Total Eating State: 58660	Philosopher: 1 Average Eating State: 0
+Philosopher: 2 Total Eating State: 59284	Philosopher: 2 Average Eating State: 0
+Philosopher: 3 Total Eating State: 62234	Philosopher: 3 Average Eating State: 1
+
+
+Philosopher: 0 Total Thinking State: 62079	Philosopher: 0 Average Thinking State: 1
+Philosopher: 1 Total Thinking State: 59610	Philosopher: 1 Average Thinking State: 0
+Philosopher: 2 Total Thinking State: 60206	Philosopher: 2 Average Thinking State: 1
+Philosopher: 3 Total Thinking State: 63148	Philosopher: 3 Average Thinking State: 1

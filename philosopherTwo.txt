@@ -1,0 +1,276 @@
+Philosopher: 3 picked up fork 3
+Philosopher: 0 picked up fork 0
+Philosopher: 3 entering eating state. Will eat for 37 ms.
+Philosopher: 3 entering hungry state
+Philosopher: 2 picked up fork 2
+Philosopher: 3 picked up fork 3
+Philosopher: 2 entering eating state. Philosopher: 0 picked up fork 0
+Philosopher: 1 picked up fork 1
+Philosopher: 0 entering eating state. Will eat for 29 ms.
+Philosopher: 2 entering hungry state
+Will eat for 36 ms.
+Philosopher: 0 entering hungry state
+Philosopher: 1 picked up fork 1
+Philosopher: 2 picked up fork 2
+Philosopher: 1 entering eating state. Philosopher: 3 picked up fork 3
+Philosopher: 0 picked up fork 0
+Philosopher: 3 entering eating state. Will eat for 28 ms.
+Philosopher: 3 entering hungry state
+Will eat for 24 ms.
+Philosopher: 1 entering hungry state
+Philosopher: 0 picked up fork 0
+Philosopher: 1 picked up fork 1
+Philosopher: 0 entering eating state. Will eat for 37 ms.
+Philosopher: 0 entering hungry state
+Philosopher: 3 picked up fork 3
+Philosopher: 0 picked up fork 0
+Philosopher: 3 entering eating state. Will eat for 25 ms.
+Philosopher: 3 entering hungry state
+Philosopher: 2 picked up fork 2
+Philosopher: 3 picked up fork 3
+Philosopher: 2 entering eating state. Will eat for 18 ms.
+Philosopher: 2 entering hungry state
+Philosopher: 1 picked up fork 1
+Philosopher: 2 picked up fork 2
+Philosopher: 1 entering eating state. Will eat for 31 ms.
+Philosopher: 1 entering hungry state
+Philosopher: 0 picked up fork 0
+Philosopher: 1 picked up fork 1
+Philosopher: 0 entering eating state. Will eat for 35 ms.
+Philosopher: 0 entering hungry state
+Philosopher: 3 picked up fork 3
+Philosopher: 0 picked up fork 0
+Philosopher: 3 entering eating state. Will eat for 19 ms.
+Philosopher: 3 entering hungry state
+Philosopher: 2 picked up fork 2
+Philosopher: 3 picked up fork 3
+Philosopher: 2 entering eating state. Will eat for 26 ms.
+Philosopher: 2 entering hungry state
+Philosopher: 1 picked up fork 1
+Philosopher: 2 picked up fork 2
+Philosopher: 1 entering eating state. Will eat for 31 ms.
+Philosopher: 1 entering hungry state
+Philosopher: 0 picked up fork 0
+Philosopher: 1 picked up fork 1
+Philosopher: 0 entering eating state. Will eat for 13 ms.
+Philosopher: 0 entering hungry state
+Philosopher: 3 picked up fork 3
+Philosopher: 0 picked up fork 0
+Philosopher: 3 entering eating state. Will eat for 23 ms.
+Philosopher: 3 entering hungry state
+Philosopher: 2 picked up fork 2
+Philosopher: 3 picked up fork 3
+Philosopher: 2 entering eating state. Will eat for 27 ms.
+Philosopher: 2 entering hungry state
+Philosopher: 1 picked up fork 1
+Philosopher: 2 picked up fork 2
+Philosopher: 1 entering eating state. Will eat for 19 ms.
+Philosopher: 1 entering hungry state
+Philosopher: 0 picked up fork 0
+Philosopher: 1 picked up fork 1
+Philosopher: 0 entering eating state. Will eat for 33 ms.
+Philosopher: 0 entering hungry state
+Philosopher: 3 picked up fork 3
+Philosopher: 0 picked up fork 0
+Philosopher: 3 entering eating state. Will eat for 23 ms.
+Philosopher: 3 entering hungry state
+Philosopher: 2 picked up fork 2
+Philosopher: 3 picked up fork 3
+Philosopher: 2 entering eating state. Will eat for 10 ms.
+Philosopher: 2 entering hungry state
+Philosopher: 1 picked up fork 1
+Philosopher: 2 picked up fork 2
+Philosopher: 1 entering eating state. Will eat for 25 ms.
+Philosopher: 1 entering hungry state
+Philosopher: 0 picked up fork 0
+Philosopher: 1 picked up fork 1
+Philosopher: 0 entering eating state. Will eat for 40 ms.
+Philosopher: 0 entering hungry state
+Philosopher: 3 picked up fork 3
+Philosopher: 0 picked up fork 0
+Philosopher: 3 entering eating state. Will eat for 11 ms.
+Philosopher: 3 entering hungry state
+Philosopher: 2 picked up fork 2
+Philosopher: 3 picked up fork 3
+Philosopher: 2 entering eating state. Will eat for 33 ms.
+Philosopher: 2 entering hungry state
+Philosopher: 1 picked up fork 1
+Philosopher: 2 picked up fork 2
+Philosopher: 1 entering eating state. Will eat for 39 ms.
+Philosopher: 1 entering hungry state
+Philosopher: 0 picked up fork 0
+Philosopher: 1 picked up fork 1
+Philosopher: 0 entering eating state. Will eat for 28 ms.
+Philosopher: 0 entering hungry state
+Philosopher: 3 picked up fork 3
+Philosopher: 0 picked up fork 0
+Philosopher: 3 entering eating state. Will eat for 19 ms.
+Philosopher: 3 entering hungry state
+Philosopher: 2 picked up fork 2
+Philosopher: 3 picked up fork 3
+Philosopher: 2 entering eating state. Will eat for 10 ms.
+Philosopher: 2 entering hungry state
+Philosopher: 1 picked up fork 1
+Philosopher: 2 picked up fork 2
+Philosopher: 1 entering eating state. Will eat for 26 ms.
+Philosopher: 1 entering hungry state
+Philosopher: 0 picked up fork 0
+Philosopher: 1 picked up fork 1
+Philosopher: 0 entering eating state. Will eat for 18 ms.
+Philosopher: 0 entering hungry state
+Philosopher: 3 picked up fork 3
+Philosopher: 0 picked up fork 0
+Philosopher: 3 entering eating state. Will eat for 23 ms.
+Philosopher: 3 entering hungry state
+Philosopher: 2 picked up fork 2
+Philosopher: 3 picked up fork 3
+Philosopher: 2 entering eating state. Will eat for 11 ms.
+Philosopher: 2 entering hungry state
+Philosopher: 1 picked up fork 1
+Philosopher: 2 picked up fork 2
+Philosopher: 1 entering eating state. Will eat for 38 ms.
+Philosopher: 1 entering hungry state
+Philosopher: 0 picked up fork 0
+Philosopher: 1 picked up fork 1
+Philosopher: 0 entering eating state. Will eat for 11 ms.
+Philosopher: 0 entering hungry state
+Philosopher: 3 picked up fork 3
+Philosopher: 0 picked up fork 0
+Philosopher: 3 entering eating state. Will eat for 28 ms.
+Philosopher: 3 entering hungry state
+Philosopher: 2 picked up fork 2
+Philosopher: 3 picked up fork 3
+Philosopher: 2 entering eating state. Will eat for 39 ms.
+Philosopher: 2 entering hungry state
+Philosopher: 1 picked up fork 1
+Philosopher: 2 picked up fork 2
+Philosopher: 1 entering eating state. Will eat for 36 ms.
+Philosopher: 1 entering hungry state
+Philosopher: 0 picked up fork 0
+Philosopher: 1 picked up fork 1
+Philosopher: 0 entering eating state. Will eat for 25 ms.
+Philosopher: 0 entering hungry state
+Philosopher: 3 picked up fork 3
+Philosopher: 0 picked up fork 0
+Philosopher: 3 entering eating state. Will eat for 37 ms.
+Philosopher: 3 entering hungry state
+Philosopher: 2 picked up fork 2
+Philosopher: 3 picked up fork 3
+Philosopher: 2 entering eating state. Will eat for 31 ms.
+Philosopher: 2 entering hungry state
+Philosopher: 1 picked up fork 1
+Philosopher: 2 picked up fork 2
+Philosopher: 1 entering eating state. Will eat for 40 ms.
+Philosopher: 1 entering hungry state
+Philosopher: 0 picked up fork 0
+Philosopher: 1 picked up fork 1
+Philosopher: 0 entering eating state. Will eat for 30 ms.
+Philosopher: 0 entering hungry state
+Philosopher: 3 picked up fork 3
+Philosopher: 0 picked up fork 0
+Philosopher: 3 entering eating state. Will eat for 34 ms.
+Philosopher: 3 entering hungry state
+Philosopher: 2 picked up fork 2
+Philosopher: 3 picked up fork 3
+Philosopher: 2 entering eating state. Will eat for 13 ms.
+Philosopher: 2 entering hungry state
+Philosopher: 1 picked up fork 1
+Philosopher: 2 picked up fork 2
+Philosopher: 1 entering eating state. Will eat for 14 ms.
+Philosopher: 1 entering hungry state
+Philosopher: 0 picked up fork 0
+Philosopher: 1 picked up fork 1
+Philosopher: 0 entering eating state. Will eat for 26 ms.
+Philosopher: 0 entering hungry state
+Philosopher: 3 picked up fork 3
+Philosopher: 0 picked up fork 0
+Philosopher: 3 entering eating state. Will eat for 39 ms.
+Philosopher: 3 entering hungry state
+Philosopher: 2 picked up fork 2
+Philosopher: 3 picked up fork 3
+Philosopher: 2 entering eating state. Will eat for 12 ms.
+Philosopher: 2 entering hungry state
+Philosopher: 1 picked up fork 1
+Philosopher: 2 picked up fork 2
+Philosopher: 1 entering eating state. Will eat for 11 ms.
+Philosopher: 1 entering hungry state
+Philosopher: 0 picked up fork 0
+Philosopher: 1 picked up fork 1
+Philosopher: 0 entering eating state. Will eat for 13 ms.
+Philosopher: 0 entering hungry state
+Philosopher: 3 picked up fork 3
+Philosopher: 0 picked up fork 0
+Philosopher: 3 entering eating state. Will eat for 21 ms.
+Philosopher: 3 entering hungry state
+Philosopher: 2 picked up fork 2
+Philosopher: 3 picked up fork 3
+Philosopher: 2 entering eating state. Will eat for 39 ms.
+Philosopher: 2 entering hungry state
+Philosopher: 1 picked up fork 1
+Philosopher: 2 picked up fork 2
+Philosopher: 1 entering eating state. Will eat for 17 ms.
+Philosopher: 1 entering hungry state
+Philosopher: 0 picked up fork 0
+Philosopher: 1 picked up fork 1
+Philosopher: 0 entering eating state. Will eat for 30 ms.
+Philosopher: 0 entering hungry state
+Philosopher: 3 picked up fork 3
+Philosopher: 0 picked up fork 0
+Philosopher: 3 entering eating state. Will eat for 16 ms.
+Philosopher: 3 entering hungry state
+Philosopher: 2 picked up fork 2
+Philosopher: 3 picked up fork 3
+Philosopher: 2 entering eating state. Will eat for 14 ms.
+Philosopher: 2 entering hungry state
+Philosopher: 1 picked up fork 1
+Philosopher: 2 picked up fork 2
+Philosopher: 1 entering eating state. Will eat for 13 ms.
+Philosopher: 1 entering hungry state
+Philosopher: 0 picked up fork 0
+Philosopher: 1 picked up fork 1
+Philosopher: 0 entering eating state. Will eat for 10 ms.
+Philosopher: 0 entering hungry state
+Philosopher: 3 picked up fork 3
+Philosopher: 0 picked up fork 0
+Philosopher: 3 entering eating state. Will eat for 21 ms.
+Philosopher: 3 entering hungry state
+Philosopher: 2 picked up fork 2
+Philosopher: 3 picked up fork 3
+Philosopher: 2 entering eating state. Will eat for 40 ms.
+Philosopher: 2 entering hungry state
+Philosopher: 1 picked up fork 1
+Philosopher: 2 picked up fork 2
+Philosopher: 1 entering eating state. Will eat for 16 ms.
+Philosopher: 1 entering hungry state
+Philosopher: 0 picked up fork 0
+Philosopher: 1 picked up fork 1
+Philosopher: 0 entering eating state. Will eat for 30 ms.
+Philosopher: 0 entering hungry state
+Philosopher: 3 picked up fork 3
+Philosopher: 0 picked up fork 0
+Philosopher: 3 entering eating state. Will eat for 23 ms.
+Philosopher: 3 entering hungry state
+Philosopher: 2 picked up fork 2
+Philosopher: 3 picked up fork 3
+Philosopher: 2 entering eating state. Will eat for 29 ms.
+Philosopher: 2 entering hungry state
+Philosopher: 1 picked up fork 1
+Philosopher: 2 picked up fork 2
+Philosopher: 1 entering eating state. Will eat for 30 ms.
+Philosopher: 1 entering hungry state
+Philosopher: 1 Total Average Time Eating: 1 ms
+Philosopher: 0 picked up fork 0
+Philosopher: 1 picked up fork 1
+Philosopher: 0 entering eating state. Will eat for 32 ms.
+Philosopher: 0 entering hungry state
+Philosopher: 0 Total Average Time Eating: 1 ms
+Philosopher: 3 picked up fork 3
+Philosopher: 0 picked up fork 0
+Philosopher: 3 entering eating state. Will eat for 29 ms.
+Philosopher: 3 entering hungry state
+Philosopher: 3 Total Average Time Eating: 1 ms
+Philosopher: 2 picked up fork 2
+Philosopher: 3 picked up fork 3
+Philosopher: 2 entering eating state. Will eat for 11 ms.
+Philosopher: 2 entering hungry state
+Philosopher: 2 Total Average Time Eating: 1 ms
